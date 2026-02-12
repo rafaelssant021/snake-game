@@ -1,4 +1,4 @@
-Snake Game 🐍
+Snake Game
 
 Jogo clássico da cobrinha desenvolvido em JavaScript.
 
@@ -19,7 +19,7 @@ O que aprendi
 - Lógica de colisão
 - Estruturação de loops e condicionais
 
-## ▶️ Como executar
+Como executar
 
 1. Abra o arquivo `index.html`
 2. Use as setas do teclado para jogar
