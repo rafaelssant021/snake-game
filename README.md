@@ -1,6 +1,6 @@
 Snake Game
 
-Jogo clássico da cobrinha desenvolvido em JavaScript.
+Jogo clássico da cobrinha desenvolvido em JavaScript orientado por senior
 
 Tecnologias utilizadas
 
